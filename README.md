@@ -1,5 +1,5 @@
 
-# Project Title
+# Critical Computation Lab Portfolio
 
 This project was made as a part of critical computation class that I took in my fall semester.
 
